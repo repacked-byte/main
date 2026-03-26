@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/solarastuff/hbg/refs/heads/main/invisibility"))()
